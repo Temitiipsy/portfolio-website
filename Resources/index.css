@@ -1,0 +1,28 @@
+body{
+    background-color: #ecf4f3;
+   
+}
+
+header{
+    background-image: url("/Resources/Images/ian-schneider-TamMbr4okv4-unsplash.jpg");
+    text-align: center;
+    background-color: #006a71;
+}
+
+h2{
+    background-color: #68b0ab;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+   background-color:#006a71;
+    color: white;
+    display: block;
+}
+
+p{
+    font-style: helvetica;
+}
+
+
